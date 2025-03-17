@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69336149d73d9ef42a3736932167e8dc, type: 3}
+  m_Name: Thunder Explosion Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Thunder Explosion Sword
+  icon: {fileID: 1674809057, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 1
+  itemID: 6070f45d555eb564da0015a951a00531
+  equipmentType: 0
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 599d9f7a903ed1c41aa6164a15bf6386, type: 2}
+  strength: 10
+  agility: 10
+  intelligence: 10
+  vitality: 10
+  damage: 10
+  critChance: 10
+  critPower: 0
+  health: 10
+  armor: 10
+  evasion: 10
+  magicResistance: 10
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 15
+  craftingMaterials: []

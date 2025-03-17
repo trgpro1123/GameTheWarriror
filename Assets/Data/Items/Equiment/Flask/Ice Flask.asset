@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69336149d73d9ef42a3736932167e8dc, type: 3}
+  m_Name: Ice Flask
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Ice Flask
+  icon: {fileID: -1740531083, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 10
+  itemID: ee8c9ffd472d4054980a90c6b2ed4de3
+  equipmentType: 3
+  itemCooldown: 15
+  itemEffects:
+  - {fileID: 11400000, guid: 53b0661006c97f244b49ac9e240cf464, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 235d38347b0f64845a527e942873ec02, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: e5280ebaaeaa57f46ba1f0d2aadf33a4, type: 2}
+    stackSize: 2
